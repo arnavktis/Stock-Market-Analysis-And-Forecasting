@@ -85,7 +85,7 @@ We welcome contributions to improve the project! Please follow these steps:
 
 ## 📧 Contact
 
-If you have any questions or feedback, feel free to reach out at [your.email@example.com](mailto:your.email@example.com).
+If you have any questions or feedback, feel free to reach out at [avneesh0904@gmail.com](mailto:avneesh0904@gmail.com) or [arnavktis@gmail.com](mailto:arnavktis@gmail.com).
 
 ---
 
